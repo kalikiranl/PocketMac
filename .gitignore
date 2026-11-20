@@ -1,0 +1,8 @@
+# Personal connection details (keep local — never commit!)
+MY_SETUP.md
+*.local.md
+
+# macOS clutter
+.DS_Store
+.AppleDouble
+.LSOverride
